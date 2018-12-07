@@ -12,9 +12,9 @@
       </a>
       <a class="mui-tab-item" href="#tabbar-with-chat">
         <span class="mui-icon mui-icon-email">
-          <span class="mui-badge">9</span>
+          <!-- <span class="mui-badge">9</span> -->
         </span>
-        <span class="mui-tab-label">消息</span>
+        <span class="mui-tab-label">战甲</span>
       </a>
       <a class="mui-tab-item" href="#tabbar-with-contact">
         <span class="mui-icon mui-icon-contact"></span>
@@ -28,12 +28,10 @@
 
     <h1>123</h1>
   </div>
-
-
 </template>
 
 <style lang="scss">
-.app-appcontailer{
+.app-appcontailer {
   padding-top: 40px;
 }
 </style>
