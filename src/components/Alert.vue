@@ -1,10 +1,17 @@
 <template>
-    $END$
+    <div>
+        <p v-if="greeting"></p>
+    </div>
 </template>
 
 <script>
     export default {
-        name: ""
+        name: "",
+        data() {
+            return {
+                greeting: 'hello world'
+            }
+        },
     }
 </script>
 
